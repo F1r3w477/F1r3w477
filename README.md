@@ -1,6 +1,6 @@
 ### Hi, I'm Dan
 
-Senior QA / Automation Engineer at CLA, moving toward Solutions Architecture. I design test automation and CI/CD systems, build integrations across applications, and explore local AI and LLMs on Apple Silicon.
+QA and automation engineer focused on test automation, CI/CD, systems integration, and local AI on Apple Silicon.
 
 ### What I work on
 
